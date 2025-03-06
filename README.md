@@ -13,7 +13,7 @@
         }
         .container {
             background-color: white;
-            border-radius: 10px;
+            border-radius: 15px;
             padding: 20px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
             display: inline-block;
